@@ -86,7 +86,13 @@ def parse_shipping(text):
 
 
 def parse_free_returns(text):
-    return bool(re.search(r"free returns", text, re.IGNORECASE))
+    """True if free returns, False if returns are listed but not free,
+    None if the listing says nothing about returns."""
+    if re.search(r"free returns", text, re.IGNORECASE):
+        return True
+    if re.search(r"returns", text, re.IGNORECASE):
+        return False
+    return None
 
 
 def parse_items_sold(text):

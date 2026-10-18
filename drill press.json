@@ -12,7 +12,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -20,7 +20,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -36,7 +36,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -44,7 +44,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -60,7 +60,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -68,7 +68,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -84,7 +84,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -92,7 +92,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -108,7 +108,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -116,7 +116,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -132,7 +132,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -140,7 +140,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -156,7 +156,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -164,7 +164,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -180,7 +180,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -188,7 +188,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -204,7 +204,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -212,7 +212,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -228,7 +228,7 @@
     "price": 1250,
     "status": "Pre-owned",
     "shipping": 425,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   },
   {
@@ -236,7 +236,7 @@
     "price": null,
     "status": null,
     "shipping": null,
-    "free_returns": false,
+    "free_returns": null,
     "items_sold": null
   }
 ]
