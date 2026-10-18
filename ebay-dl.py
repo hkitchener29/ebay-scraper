@@ -85,13 +85,15 @@ def parse_shipping(text):
     return None
 
 
-def parse_free_returns(text):
-    """True if free returns, False if returns are listed but not free,
-    None if the listing says nothing about returns."""
+def parse_free_returns(card, text):
+    """True if free returns, False if a returns line exists but isn't free
+    (e.g. "Buyer pays return shipping"), None if there is no returns line."""
+    tag = card.select_one(".s-item__free-returns")
+    if tag is not None:
+        return bool(re.search(r"free returns", tag.get_text(" "), re.IGNORECASE))
+    # Fallback for pages without that element (e.g. other layouts)
     if re.search(r"free returns", text, re.IGNORECASE):
         return True
-    if re.search(r"returns", text, re.IGNORECASE):
-        return False
     return None
 
 
@@ -113,7 +115,7 @@ def parse_card(card):
         "price": parse_price(card),
         "status": parse_status(card),
         "shipping": parse_shipping(text),
-        "free_returns": parse_free_returns(text),
+        "free_returns": parse_free_returns(card, text),
         "items_sold": parse_items_sold(text),
     }
 

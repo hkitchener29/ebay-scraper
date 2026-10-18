@@ -1,31 +1,31 @@
 name,price,status,shipping,free_returns,items_sold
 Garden trowel 1,1195,Brand New,0,True,3
-Used planter 1,1250,Pre-owned,425,,
+Used planter 1,1250,Pre-owned,425,False,
 Mystery seeds 1,,,,,
 Garden trowel 2,1295,Brand New,0,True,6
-Used planter 2,1250,Pre-owned,425,,
+Used planter 2,1250,Pre-owned,425,False,
 Mystery seeds 2,,,,,
 Garden trowel 3,1395,Brand New,0,True,9
-Used planter 3,1250,Pre-owned,425,,
+Used planter 3,1250,Pre-owned,425,False,
 Mystery seeds 3,,,,,
 Garden trowel 4,1495,Brand New,0,True,12
-Used planter 4,1250,Pre-owned,425,,
+Used planter 4,1250,Pre-owned,425,False,
 Mystery seeds 4,,,,,
 Garden trowel 5,1595,Brand New,0,True,15
-Used planter 5,1250,Pre-owned,425,,
+Used planter 5,1250,Pre-owned,425,False,
 Mystery seeds 5,,,,,
 Garden trowel 6,1695,Brand New,0,True,18
-Used planter 6,1250,Pre-owned,425,,
+Used planter 6,1250,Pre-owned,425,False,
 Mystery seeds 6,,,,,
 Garden trowel 7,1795,Brand New,0,True,21
-Used planter 7,1250,Pre-owned,425,,
+Used planter 7,1250,Pre-owned,425,False,
 Mystery seeds 7,,,,,
 Garden trowel 8,1895,Brand New,0,True,24
-Used planter 8,1250,Pre-owned,425,,
+Used planter 8,1250,Pre-owned,425,False,
 Mystery seeds 8,,,,,
 Garden trowel 9,1995,Brand New,0,True,27
-Used planter 9,1250,Pre-owned,425,,
+Used planter 9,1250,Pre-owned,425,False,
 Mystery seeds 9,,,,,
 Garden trowel 10,2095,Brand New,0,True,30
-Used planter 10,1250,Pre-owned,425,,
+Used planter 10,1250,Pre-owned,425,False,
 Mystery seeds 10,,,,,
